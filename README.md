@@ -14,7 +14,7 @@ A Microsoft Fabric / Power BI monorepo where every semantic model and report is 
 version-controlled like software. **Report 01** is a banking **Branch &amp; Channel Performance**
 dashboard built end-to-end on a 100% AI-generated dataset.
 
-📖 **See exactly how it was built** — prompts, debug log, and cost: **[`docs/session-recap.html`](docs/session-recap.html)** *(open locally in a browser for the full rendered recap).*
+📖 **See exactly how it was built** — prompts, debug log, and cost: **[read the build recap](https://datapotanalytics.github.io/datapot-fabric-agent-demo/session-recap.html)** *(rendered via GitHub Pages; source in [`docs/session-recap.html`](docs/session-recap.html)).*
 
 > 🔬 **Research &amp; educational use only · 100% dummy data.** Experimental; **not production-tier**
 > and not through Datapot's QA. The bundled "BankDIAD" dataset is entirely AI-generated — no real
@@ -162,7 +162,7 @@ agentic, AI-assisted analytics engineering**, shared openly so the community can
 
 - ⭐ **Star this repo** if the agentic-PBIP workflow is useful — it helps others find it.
 - 🔎 **Explore Report 01** → [Branch &amp; Channel Performance](reports/01-branch-channel-performance/README.md)
-- 📖 **Read the build story** → [session recap](docs/session-recap.html)
+- 📖 **Read the build story** → [session recap](https://datapotanalytics.github.io/datapot-fabric-agent-demo/session-recap.html)
 - 🎓 **Learn analytics with us** → [datapot.edu.vn](https://datapot.edu.vn)
 - 💬 **Bug or idea?** → [open an issue](https://github.com/DatapotAnalytics/datapot-fabric-agent-demo/issues/new/choose) · see [CONTRIBUTING.md](CONTRIBUTING.md)
 

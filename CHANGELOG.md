@@ -11,8 +11,12 @@ This project is pre-1.0 and research-grade — expect breaking changes.
 - README overhaul for community & discoverability, plus a "Getting Started" that documents the
   required PBIR preview feature.
 - Star-schema diagram (`docs/assets/star-schema.svg`) embedded in the README.
+- GitHub Pages site (served from `docs/`) publishing the build recap, with a `docs/index.html` landing redirect.
 
 ### Changed
+- Rebranded `docs/session-recap.html` to the Datapot Design System (Microsoft Fluent–inspired light
+  theme; Plus Jakarta Sans / Public Sans / JetBrains Mono; brand gradient; sentence case, no emoji),
+  added links back to the repository, and expanded the context for readers arriving from the web.
 - Genericized the `DataFolder` parameter and de-personalized the non-ASCII path notes.
 - Report now opens on the **Overview** page by default.
 - Normalized all TMDL files to LF (they had been re-saved as CRLF by Power BI Desktop).
